@@ -1,0 +1,2 @@
+rootProject.name = "mynfc"
+include ':app'
